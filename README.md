@@ -1,3 +1,3 @@
 # test-pr
 
-[test](test)
+[test](test.md)
